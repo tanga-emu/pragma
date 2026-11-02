@@ -1,8 +1,9 @@
 # 🚧🚧WARNING🚧🚧
 
-pragma is making a **re-release version called pragma-pro** so that means this code is discontinued. It will be archived soon and the <br> pragma-pro repository link will be shortly made and put
+pragma is making a **re-release version called pragma-pro** so that means this code is discontinued. It will be archived soon and the 
+pragma-pro repository link will be shortly made and put
 
-Here: *insert pragma-pro link here*
+Here: <a href="https://github.com/pragma-emu/pragma-pro"> pragma-pro </a>
 
 ## pragma
 
