@@ -1,9 +1,9 @@
 # 🚧🚧WARNING🚧🚧
 
-pragma is making a **re-release version called pragma-pro** so that means this code is discontinued. It will be archived soon and the 
-pragma-pro repository link will be shortly made and put
+pragma is making a **re-release version called Tanga** so that means this code is discontinued. It will be archived soon and the 
+tanga repository link will be shortly made and put
 
-Here: <a href="https://github.com/pragma-emu/pragma-pro"> pragma-pro </a>
+Here: <a href="https://github.com/tanga-emu/tanga"> Tanga </a>
 
 ## pragma
 
